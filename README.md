@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**gih-shefer/gih-shefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Giovanna Shefer
 
-Here are some ideas to get you started:
+- Sou esdutante na [Alura](https://www.alura.com.br)
+- Estou cursando o ensino médio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Meios de comunicação
+
+  - Email: giovannashefer945@gmail.com
+
+   
+  - Instagram:@giovannadevicente
+
+ ![](https://media1.tenor.com/m/oM6oAivXzeUAAAAd/mwah-cat-mwah.gif)
